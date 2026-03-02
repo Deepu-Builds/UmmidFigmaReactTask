@@ -1,0 +1,156 @@
+export const campaigns = [
+  {
+    id: 1,
+    title: "Clean Water for All",
+    description:
+      "Dolor donec eget morbi nisi. Eu ut et enim ornare nisl vel auctor odio a. Curabitur porttitor quis gravida porttitor vel Imperdiet pharetra sapien odio dictumst quis mi nunc blandit.",
+    goal: 12000,
+    raised: 8000,
+    donations: 14,
+    category: "Education",
+    image: "/campaign1.png",
+  },
+  {
+    id: 2,
+    title: "Improve Education",
+    description:
+      "Dolor donec eget morbi nisi. Eu ut et enim ornare nisl vel auctor odio a. Curabitur porttitor quis gravida porttitor vel Imperdiet pharetra sapien odio dictumst quis mi nunc blandit.",
+    goal: 15000,
+    raised: 12000,
+    donations: 25,
+    category: "Health",
+    image: "/campaign2.png",
+  },
+  {
+    id: 3,
+    title: "End Hunger",
+    description:
+      "Dolor donec eget morbi nisi. Eu ut et enim ornare nisl vel auctor odio a. Curabitur porttitor quis gravida porttitor vel Imperdiet pharetra sapien odio dictumst quis mi nunc blandit.",
+    goal: 200000,
+    raised: 80000,
+    donations: 6,
+    category: "Children",
+    image: "/campaign3.png",
+  },
+  {
+    id: 4,
+    title: "Reduce Homelessness",
+    description:
+      "Dolor donec eget morbi nisi. Eu ut et enim ornare nisl vel auctor odio a. Curabitur porttitor quis gravida porttitor vel Imperdiet pharetra sapien odio dictumst quis mi nunc blandit.",
+    goal: 60000,
+    raised: 32000,
+    donations: 12,
+    category: "Animals",
+    image: "/campaign4.png",
+  },
+  {
+    id: 5,
+    title: "Immigration and Refugees",
+    description:
+      "Dolor donec eget morbi nisi. Eu ut et enim ornare nisl vel auctor odio a. Curabitur porttitor quis gravida porttitor vel Imperdiet pharetra sapien odio dictumst quis mi nunc blandit.",
+    goal: 220000,
+    raised: 60000,
+    donations: 24,
+    category: "Health",
+    image: "/campaign5.png",
+  },
+  {
+    id: 6,
+    title: "Climate Change Mitigation",
+    description:
+      "Dolor donec eget morbi nisi. Eu ut et enim ornare nisl vel auctor odio a. Curabitur porttitor quis gravida porttitor vel Imperdiet pharetra sapien odio dictumst quis mi nunc blandit.",
+    goal: 120000,
+    raised: 80000,
+    donations: 8,
+    category: "Education",
+    image: "/campaign2.png",
+  },
+    {
+    id: 8,
+    title: "Immigration and Refugees",
+    description:
+      "Dolor donec eget morbi nisi. Eu ut et enim ornare nisl vel auctor odio a. Curabitur porttitor quis gravida porttitor vel Imperdiet pharetra sapien odio dictumst quis mi nunc blandit.",
+    goal: 220000,
+    raised: 60000,
+    donations: 24,
+    category: "Health",
+    image: "/campaign5.png",
+  },
+  {
+    id: 9,
+    title: "Climate Change Mitigation",
+    description:
+      "Dolor donec eget morbi nisi. Eu ut et enim ornare nisl vel auctor odio a. Curabitur porttitor quis gravida porttitor vel Imperdiet pharetra sapien odio dictumst quis mi nunc blandit.",
+    goal: 120000,
+    raised: 80000,
+    donations: 8,
+    category: "Education",
+    image: "/campaign3.png",
+  },
+    {
+    id: 10,
+    title: "Immigration and Refugees",
+    description:
+      "Dolor donec eget morbi nisi. Eu ut et enim ornare nisl vel auctor odio a. Curabitur porttitor quis gravida porttitor vel Imperdiet pharetra sapien odio dictumst quis mi nunc blandit.",
+    goal: 220000,
+    raised: 60000,
+    donations: 24,
+    category: "Health",
+    image: "/campaign4.png",
+  },
+  {
+    id: 11,
+    title: "Climate Change Mitigation",
+    description:
+      "Dolor donec eget morbi nisi. Eu ut et enim ornare nisl vel auctor odio a. Curabitur porttitor quis gravida porttitor vel Imperdiet pharetra sapien odio dictumst quis mi nunc blandit.",
+    goal: 120000,
+    raised: 80000,
+    donations: 8,
+    category: "Health",
+    image: "/campaign5.png",
+  },
+    {
+    id: 12,
+    title: "Immigration and Refugees",
+    description:
+      "Dolor donec eget morbi nisi. Eu ut et enim ornare nisl vel auctor odio a. Curabitur porttitor quis gravida porttitor vel Imperdiet pharetra sapien odio dictumst quis mi nunc blandit.",
+    goal: 220000,
+    raised: 60000,
+    donations: 24,
+    category: "Health",
+    image: "/campaign2.png",
+  },
+  {
+    id: 13,
+    title: "Climate Change Mitigation",
+    description:
+      "Dolor donec eget morbi nisi. Eu ut et enim ornare nisl vel auctor odio a. Curabitur porttitor quis gravida porttitor vel Imperdiet pharetra sapien odio dictumst quis mi nunc blandit.",
+    goal: 120000,
+    raised: 80000,
+    donations: 8,
+    category: "Education",
+    image: "/campaign5.png",
+  },
+    {
+    id: 14,
+    title: "Immigration and Refugees",
+    description:
+      "Dolor donec eget morbi nisi. Eu ut et enim ornare nisl vel auctor odio a. Curabitur porttitor quis gravida porttitor vel Imperdiet pharetra sapien odio dictumst quis mi nunc blandit.",
+    goal: 220000,
+    raised: 60000,
+    donations: 24,
+    category: "Education",
+    image: "/campaign2.png",
+  },
+  {
+    id: 15,
+    title: "Climate Change Mitigation",
+    description:
+      "Dolor donec eget morbi nisi. Eu ut et enim ornare nisl vel auctor odio a. Curabitur porttitor quis gravida porttitor vel Imperdiet pharetra sapien odio dictumst quis mi nunc blandit.",
+    goal: 120000,
+    raised: 80000,
+    donations: 8,
+    category: "Education",
+    image: "/campaign6.png",
+  },
+];
